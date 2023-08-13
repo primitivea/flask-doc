@@ -107,6 +107,7 @@ Contents
    :maxdepth: 1
 
    style-guide
+   shouter/index
    
 **********
 References
