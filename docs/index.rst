@@ -72,10 +72,32 @@ Cara selanjutnya adalah dengan menginstall ulang aplikasi WA. Namun, jika ingin 
 
 Demikian beberapa cara memunculkan notifikasi WA di Android. Jika tidak bisa juga, pengguna dapat melakukan upgrade aplikasi WA di Play Store.
 
+Daftar Aplikasi Ringtone Android
+----------------------
+
+Pada perangkat Android, Anda dapat menggunakan berbagai aplikasi untuk memodifikasi atau membuat ringtone kustom, yang kemudian dapat Anda terapkan pada WhatsApp atau aplikasi perpesanan lainnya. Berikut adalah beberapa aplikasi yang dapat Anda pertimbangkan:
+
+- Ringtone Maker: Aplikasi ini memungkinkan Anda untuk memotong lagu atau rekaman dan menggunakannya sebagai ringtone, notifikasi, atau alarm.
+- MP3 Cutter and Ringtone Maker: Aplikasi ini memungkinkan Anda untuk memotong dan mengedit file audio yang ada di ponsel Anda untuk membuat ringtone kustom.
+- Zedge: Selain wallpaper dan ikon, Zedge juga menawarkan koleksi besar ringtone yang dapat Anda unduh dan gunakan.
+- Audiko: Ini adalah aplikasi lain yang menawarkan koleksi ringtone serta fitur untuk membuat ringtone sendiri.
+
+GarageBand (hanya untuk iOS): Meskipun bukan untuk Android, saya menyebutkannya untuk mereka yang mungkin mempunyai perangkat Apple. GarageBand memungkinkan Anda untuk membuat ringtone dari lagu atau rekaman Anda sendiri.
+
+Setelah Anda memiliki atau membuat ringtone kustom, Anda dapat mengatur ringtone tersebut sebagai notifikasi WhatsApp dengan langkah-langkah berikut:
+
+- Buka aplikasi WhatsApp.
+- Tap pada ikon tiga titik vertikal di pojok kanan atas untuk membuka menu.
+- Pilih Settings (Pengaturan).
+- Pilih Notifications (Notifikasi).
+
+Di sini, Anda dapat mengubah ringtone untuk pesan dan panggilan. Tap pada Ringtone di bawah pesan atau panggilan dan pilih ringtone kustom yang Anda inginkan.
+Sebelum mengunduh dan menggunakan aplikasi, pastikan untuk membaca ulasan dan memeriksa izin yang diminta oleh aplikasi untuk memastikan privasi dan keamanan Anda.
+
 **Sumber referensi**:
 
-- `Cara Mengubah Notifikasi WA Suara Google <https://www.technolati.com/2022/08/cara-mengubah-nada-dering-wa-dengan.html>`_
-- `Nada Dering Suara Anak Kecil dengan Sound of Text <https://www.postedto.com/2022/08/cara-membuat-sound-of-text-suara-anak.html>`_
+- `Cara Mengubah Notifikasi WA Suara Google <https://www.sebuahutas.com/cara-ganti-nada-dering-wa-dengan-suara-google-dijamin-mudah/>`_
+- `Sound of Text WA <https://www.soundoftext.co.id/>`_
 
 ********
 Contents
